@@ -6,9 +6,9 @@
   <Image>Images\LCCAnalysisTools.png</Image>
   <Author>Jay Laura</Author>
   <Company>USGS Astrogeology</Company>
-  <Date>5/22/2013</Date>
+  <Date>6/15/2016</Date>
   <Targets>
-    <Target name="Desktop" version="10.1" />
+    <Target name="Desktop" version="10.3" />
   </Targets>
   <AddIn language="CLR" library="LCCAnalysisTools.dll" namespace="LCCAnalysisTools">
     <ArcMap>
